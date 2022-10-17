@@ -1,3 +1,5 @@
+![Screenshot](screenshot1.png)
+
 # Description
 This code was done for fun to get a better appreciation of what is required to do 3D rendering.
 Code quality is questionable but should be readable as example code.
@@ -9,7 +11,7 @@ Mouse left-button drag controls X and Y rotations
 Mouse wheel controls distance to camera
 
 ## Limitations
-Single texture
+Single mesh with a single texture
 Only 'nearest neighbour' texture rendering possible
 Single diffuse light coming from the camera
 Triangles intersecting the camera near plane are simply discarded
