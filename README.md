@@ -1,8 +1,12 @@
 ![Screenshot](screenshot1.png)
 
 # Description
+This is a simple application that renders a 3D model from scratch (no 3D library used) and allows simple mouse interaction.
+Model data is hardcoded - I created a Blender exporter to create the code file.
+
 This code was done for fun to get a better appreciation of what is required to do 3D rendering.
 Code quality is questionable but should be readable as example code.
+Compilation and testing was done only under Linux but shouldn't be hard to use in other platforms.
 
 ## Features
 Renders triangles using indexed vertices
